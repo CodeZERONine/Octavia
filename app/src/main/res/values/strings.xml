@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Octavia</string>
+    <string name="title_activity_nav">navActivity</string>
+</resources>
